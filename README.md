@@ -7,7 +7,7 @@ without having to be an expert in company policy or the local facility’s leave
 policies
 
 ## 📋 Requirements
-### ✅ Functional Requirements (FRs)
+### Functional Requirements (FRs)
   
 1. The system is implemented as an extension to the existing intranet portal system of the company
 2. The VTS uses the company portal’s sign-on mechanisms for all authentication.
