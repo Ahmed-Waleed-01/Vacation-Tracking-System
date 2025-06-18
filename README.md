@@ -42,4 +42,13 @@ employee information and changes.
 Managing employee leave through manual or fragmented systems causes delays, errors, and lack of visibility.
 A Vacation Tracking System (VTS) solves this by streamlining requests, approvals, and policy enforcement in one integrated platform.
 
+## 👥 Actors
+Employee: Requests and tracks their vacation, sick leave, and personal time.
+
+Manager: Reviews, approves, or rejects leave requests from team members.
+
+HR Administrator (Clerk): Manages policies, oversees leave balances, and handles exceptions.
+
+System Administrator: Maintains system integrity, access control, and integration with other platforms.
+
 
