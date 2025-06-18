@@ -32,3 +32,9 @@ employee information and changes.
 2. Hashed Passwords, Encrypted data and Role-Based access (Security).
 3. Easy to use, clean and simple interface (Usability).
 4. 99.9% uptime (Reliability).
+
+## Key Constraints
+1. New system must work with old system or existing HR/ERP system.
+2. Must keep logs up to 18 months in the past.
+3. System must be web only.
+
