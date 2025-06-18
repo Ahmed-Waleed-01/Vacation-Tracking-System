@@ -45,9 +45,17 @@ A Vacation Tracking System (VTS) solves this by streamlining requests, approvals
 ## 👥 Actors
 Employee: Requests and tracks their vacation, sick leave, and personal time.
 
-Manager: Reviews, approves, or rejects leave requests from team members.
+Manager: An employee who has all the abilities and goals of a regular
+employee, but with the added responsibility of approving vacation requests
+for immediate subordinates. A manager may award subordinates comp
+time, subject to certain limits set in the system.
 
-HR Administrator (Clerk): Manages policies, oversees leave balances, and handles exceptions.
+HR Administrator (Clerk): A member of the HR department who has sufficient rights to view
+employees’ personal data and is responsible for ensuring that employees’
+information in all HR systems is up to date and correct. An HR clerk can
+add or remove nearly any record in the system. In the real world, HR clerks
+may or may not be employees; however, if they are employees, they use two
+separate login IDs to manage these two different roles.
 
 System Administrator: Maintains system integrity, access control, and integration with other platforms.
 
