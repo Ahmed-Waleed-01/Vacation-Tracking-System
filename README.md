@@ -33,8 +33,13 @@ employee information and changes.
 3. Easy to use, clean and simple interface (Usability).
 4. 99.9% uptime (Reliability).
 
-## Key Constraints
+## ⛓️ Key Constraints
 1. New system must work with old system or existing HR/ERP system.
 2. Must keep logs up to 18 months in the past.
 3. System must be web only.
+
+## 🌐 Domain
+Managing employee leave through manual or fragmented systems causes delays, errors, and lack of visibility.
+A Vacation Tracking System (VTS) solves this by streamlining requests, approvals, and policy enforcement in one integrated platform.
+
 
