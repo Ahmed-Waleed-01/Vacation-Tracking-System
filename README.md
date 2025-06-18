@@ -26,3 +26,9 @@ limits/rules).
 given employee’s vacation request summary.
 13.Interfaces with the legacy HR department systems to retrieve required
 employee information and changes.
+
+### Non-Functional Requirements (NFRs)
+1. Response time <2s under normal load (Performance).
+2. Hashed Passwords, Encrypted data and Role-Based access (Security).
+3. Easy to use, clean and simple interface (Usability).
+4. 99.9% uptime (Reliability).
